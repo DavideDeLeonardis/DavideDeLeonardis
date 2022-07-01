@@ -1,11 +1,10 @@
 Hello 👋 ,<br>
 I'm <strong style="font-size: 1.5em">Davide</strong>, a<br>
 
-### - Jr. Web Developer - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Salesforce Certified Administrator - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Salesforce Certified Platform Developer -
+#### - Jr. Web Developer - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Salesforce Certified Administrator - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Salesforce Certified Platform Developer -
 
-<br>
 
-- I'm studing at the second year in a <u>Business school</u>,
+- I'm attending the second year in a <u>Business school</u>,
 - I love improving my skills both in front-end progamming with &nbsp; <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /> &nbsp; and &nbsp; <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" />, &nbsp; and in back-end technologies as <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /> &nbsp; and &nbsp; ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white).
   
 
