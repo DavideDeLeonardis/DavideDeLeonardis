@@ -56,9 +56,3 @@ I'm <strong style="font-size: 1.5em">Davide</strong>, a<br>
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a><br>
 - davidedeleonardis1711@gmail.com
-
-<br><br><br>
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DavideDeLeonardis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideDeLeonardis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
