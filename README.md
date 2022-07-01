@@ -15,9 +15,8 @@ I'm very happy and stimulated working with other programmers, so contact me!
 ## View my projects' code and visit demos sites' links in <u>repos</u>!
 
 <br>
-Contacts:
-
--  davidedeleonardis1711@gmail.com
+Contact me: 
+  - davidedeleonardis1711@gmail.com
 
 <!--
 - I’m currently working on ...
