@@ -8,6 +8,7 @@ I'm studing at the second year in a <u>Business school</u> and I love improving 
 Now I'm studing <strong>Node.js and blockchain world</strong>, starting from <i>Solidity language</i>.
 
 <br>
+
 I'm very happy and stimulated working with other programmers, so contact me!
 
 <br>
