@@ -1,5 +1,5 @@
 Hello,<br>
-I'm <strong style="font-size: 1.35em">Davide De Leonardis</strong>, and I'm a<br>
+I'm <strong style="font-size: 1.35em">Davide</strong>, a<br>
 
 ### - Jr. Web Developer - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Salesforce Certified Administrator - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Salesforce Certified Platform Developer -
 
