@@ -1,7 +1,7 @@
 Hello 👋 ,<br>
-I'm <strong style="font-size: 1.5em">Davide</strong>, a
+I'm <strong>Davide</strong>, a
 
-#### - Jr. Web Developer - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Salesforce Certified Administrator - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Salesforce Certified Platform Developer -
+### - Jr. Web Developer &nbsp;&nbsp;&nbsp;&nbsp; - Salesforce Certified Administrator &nbsp;&nbsp;&nbsp;&nbsp; - Salesforce Certified Platform Developer
 
 <hr>
 
