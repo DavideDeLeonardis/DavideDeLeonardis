@@ -7,7 +7,7 @@ I'm <strong>Davide</strong>, a
 
 - I'm attending the second year in a Business school
 
-- I love improving my skills both in front-end progamming with &nbsp; <u><strong>React</strong></u> &nbsp; and &nbsp; <u><strong>Vue.js</strong></u>, &nbsp; and in back-end technologies as &nbsp; <u><strong>PHP</strong></u> &nbsp; and &nbsp; <u><strong>Laravel</strong></u>
+- I love improving my skills both in front-end and back-end progamming, ad example with &nbsp; <u><strong>React</strong></u> &nbsp; and &nbsp; <u><strong>Vue.js</strong></u>, <u><strong>PHP</strong></u> &nbsp; and &nbsp; <u><strong>Laravel</strong></u>;
   
 
 - Now I'm studing &nbsp; ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp; and blockchain world, in particular &nbsp; ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) &nbsp; language
