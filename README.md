@@ -5,12 +5,12 @@ I'm <strong>Davide</strong>, a
 
 <hr>
 
-- I'm attending the second year in a Business school
+- I'm a student attending the second year in a Business school
 
-- I love improving my skills both in front-end and back-end progamming, ad example with &nbsp; <u><strong>React</strong></u> &nbsp; and &nbsp; <u><strong>Vue.js</strong></u>, <u><strong>PHP</strong></u> &nbsp; and &nbsp; <u><strong>Laravel</strong></u>;
+- I love improving my skills both in front-end and back-end progamming, ad example with &nbsp; <u><strong>React</strong></u> &nbsp; and &nbsp; <u><strong>Vue.js</strong></u>, <u><strong>PHP</strong></u> &nbsp; and &nbsp; <u><strong>Laravel</strong></u>
   
 
-- Now I'm studing &nbsp; ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp; and blockchain world, in particular &nbsp; ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) &nbsp; language
+- Now I'm studing &nbsp; <u><strong>blockchain</strong></u> &nbsp; world focusing on &nbsp; ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) &nbsp; language
 
 ### 🚀 Check my repos to see my work!!
 
@@ -26,7 +26,7 @@ I'm <strong>Davide</strong>, a
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) &nbsp;
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) &nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="40" /> <br>
+<br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) &nbsp;
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) &nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
