@@ -7,10 +7,10 @@ I'm <strong>Davide</strong>, a
 
 - I'm a student attending the second year in a Business school
 
-- I love improving my skills both in front-end and back-end progamming, ad example with &nbsp; <u><strong>React</strong></u> &nbsp; and &nbsp; <u><strong>Vue.js</strong></u>, <u><strong>PHP</strong></u> &nbsp; and &nbsp; <u><strong>Laravel</strong></u>
+- I love improving my skills both in front-end and back-end progamming, with technologies such as &nbsp; <u><strong>React</strong></u> &nbsp; and &nbsp; <u><strong>Vue.js</strong></u>, <u><strong>PHP</strong></u> &nbsp; and &nbsp; <u><strong>Laravel</strong></u>
   
 
-- Now I'm studing &nbsp; <u><strong>blockchain</strong></u> &nbsp; world focusing on &nbsp; ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) &nbsp; language
+- Now I'm studing &nbsp; ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
 
 ### 🚀 Check my repos to see my work!!
 
@@ -32,6 +32,8 @@ I'm <strong>Davide</strong>, a
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) &nbsp;
 <img src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="35" /> 
+<br>
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 <br>
 
