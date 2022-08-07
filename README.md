@@ -1,18 +1,17 @@
 Hello 👋 ,<br>
 I'm <strong>Davide</strong>, a
 
-### - Jr. Web Developer &nbsp;&nbsp;&nbsp;&nbsp; - Salesforce Certified Administrator &nbsp;&nbsp;&nbsp;&nbsp; - Salesforce Certified Platform Developer
+#### - Jr. Web Developer
+#### - Salesforce Certified Administrator 
+#### - Salesforce Certified Platform Developer
 
 <hr>
 
+- I love improving my skills both in front-end and back-end progamming, with technologies such as &nbsp; <u><strong>React</strong></u> &nbsp; and &nbsp; <u><strong>Vue.js</strong></u>, <u><strong>PHP</strong></u> &nbsp; and &nbsp; <u><strong>Laravel</strong></u>; &nbsp; now I'm studing &nbsp; <u><strong>Node.js</strong></u>
+
 - I'm a student attending the second year in a Business school
 
-- I love improving my skills both in front-end and back-end progamming, with technologies such as &nbsp; <u><strong>React</strong></u> &nbsp; and &nbsp; <u><strong>Vue.js</strong></u>, <u><strong>PHP</strong></u> &nbsp; and &nbsp; <u><strong>Laravel</strong></u>
-  
-
-- Now I'm studing &nbsp; ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
-
-### 🚀 Check my repos to see my work!!
+#### 🚀 Check my repos to see my work!!
 
 <br>  
 
