@@ -7,9 +7,7 @@ I'm <strong>Davide</strong>, a
 
 <hr>
 
-- I love improving my skills both in front-end and back-end progamming, with technologies such as &nbsp; <u><strong>React</strong></u> &nbsp; and &nbsp; <u><strong>Vue.js</strong></u>, <u><strong>PHP</strong></u> &nbsp; and &nbsp; <u><strong>Laravel</strong></u>; &nbsp; now I'm studing &nbsp; <u><strong>Node.js</strong></u>
-
-- I'm a student attending the second year in a Business school
+- I'm a student attending the second year in a Business school and I love improving my skills both in <u><strong>front-end</strong></u> and <strong>back-end</strong> progamming
 
 #### 🚀 Check my repos to see my work!!
 
