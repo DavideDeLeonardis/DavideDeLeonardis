@@ -9,7 +9,7 @@ I'm <strong>Davide</strong>, a
 
 - I'm a student attending the second year in a Business school and I love improving my skills both in <u><strong>front-end</strong></u> and <strong>back-end</strong> progamming
 
-#### Check my repos or <a href="https://davidedeleonardis.dev" target="_blank">my website</a> to see my work!!
+#### Check my repos or <a href="https://davidedeleonardis.dev" target="_blank">My Website</a> to see my work!!
 
 <br>  
 
