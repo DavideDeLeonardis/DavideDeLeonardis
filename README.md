@@ -1,5 +1,4 @@
-Hello 👋 ,<br>
-I'm <strong>Davide</strong>, a
+## Davide
 
 #### - Jr. Web Developer
 #### - Salesforce Certified Administrator 
@@ -26,8 +25,7 @@ I'm <strong>Davide</strong>, a
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) &nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
 <img src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="35" /> 
-<br>
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+
 
 <br>
 
