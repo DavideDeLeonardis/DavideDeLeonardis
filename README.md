@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img width=120  src="https://davidedeleonardis.dev/static/media/exagon-logo-blue.660a125a6b44ee14c4a4.png" alt="LOGO" />
+  <img width=120  src="https://portfolio-v1-react.firebaseapp.com/static/media/exagon-logo-blue.660a125a6b44ee14c4a4.png" alt="LOGO" />
   
   ### University of Pisa &nbsp;&nbsp; | &nbsp;&nbsp; Jr. Web Developer &nbsp;&nbsp; | &nbsp;&nbsp; x2 Salesforce Certified
 
