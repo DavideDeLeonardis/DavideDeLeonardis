@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img width=120  src="https://portfolio-v1-react.firebaseapp.com/static/media/exagon-logo-blue.660a125a6b44ee14c4a4.png" alt="LOGO" />
+  <img width=50  src="https://portfolio-v1-react.firebaseapp.com/static/media/exagon-logo-blue.660a125a6b44ee14c4a4.png" alt="LOGO" />
   
   ### BSc in Computer Science at University of Pisa
   ### MSc in High-Tech Systems and Robotics at TU/Eindhoven
